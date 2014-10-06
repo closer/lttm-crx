@@ -58,7 +58,7 @@ atwhoOptions =
               url = v.url
               images.push
                 name: v.url
-                imageUrl: "http://hisaichilgtm.herokuapp.com/#{v.url}"
+                imageUrl: "http://lttm-overlay.herokuapp.com/#{v.url}"
                 imagePreviewUrl: v.tbUrl
                 alt: v.titleNoFormatting
             callback images
